@@ -70,8 +70,8 @@ car-brand-app/
 Clone and set up the project:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>/car-brand-app
+git clone https://github.com/limpakis/my-projects.git
+cd my-projects/car-brand-app
 
 # Create & activate a virtual environment (macOS/Linux)
 python3 -m venv .venv
